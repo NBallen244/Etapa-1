@@ -1,0 +1,6 @@
+projectKey=Kiro-Etapa1
+serverUrl=http://localhost:9000
+serverVersion=26.9.0.129388
+dashboardUrl=http://localhost:9000/dashboard?id=Kiro-Etapa1
+ceTaskId=89216a2c-d4c9-4b1f-8352-cc057ba06d27
+ceTaskUrl=http://localhost:9000/api/ce/task?id=89216a2c-d4c9-4b1f-8352-cc057ba06d27

@@ -1,0 +1,6 @@
+projectKey=Speckit-Etapa1
+serverUrl=http://localhost:9000
+serverVersion=26.9.0.129388
+dashboardUrl=http://localhost:9000/dashboard?id=Speckit-Etapa1
+ceTaskId=bf0cb3a6-6e17-4ead-abca-3f8c184886b3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=bf0cb3a6-6e17-4ead-abca-3f8c184886b3
