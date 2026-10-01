@@ -1,6 +1,6 @@
-projectKey=OpenSpec-Etapa1
+projectKey=Openspec-Etapa1
 serverUrl=http://localhost:9000
 serverVersion=26.9.0.129388
-dashboardUrl=http://localhost:9000/dashboard?id=OpenSpec-Etapa1
-ceTaskId=28944114-0d00-430c-8124-00d50b1c8cf5
-ceTaskUrl=http://localhost:9000/api/ce/task?id=28944114-0d00-430c-8124-00d50b1c8cf5
+dashboardUrl=http://localhost:9000/dashboard?id=Openspec-Etapa1
+ceTaskId=299ff35d-c3e7-443f-b3d6-f8592957202f
+ceTaskUrl=http://localhost:9000/api/ce/task?id=299ff35d-c3e7-443f-b3d6-f8592957202f
